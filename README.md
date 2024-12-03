@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepralshakya&label=Profile%20views&color=0e75b6&style=flat" alt="deepralshakya" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JS, React, PHP, PYTHON**
+- 🌱 I’m currently learning **HTML, CSS, JS, React, Next.js, Tailwind CSS, PHP, PYTHON, MySQL**
 
 - 📫 How to reach me **shakyadeepral44@gmail.com**
 
